@@ -7,7 +7,7 @@
 и как обычный скальпер-сеточник.
 
 ## Видео-пример работы
-[Смотреть видео на YouTube]([https://www.youtube.com/ссылка_на_твое_видео](https://youtu.be/tlodAFfFLmA))
+[Смотреть видео на YouTube](https://youtu.be/tlodAFfFLmA)
 
 ## Инструкция по установке
 1. Скачай файл `Skalper-Unlocker v5.0.ex4` из раздела **Releases** (см. ниже).
