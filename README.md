@@ -14,6 +14,6 @@
 https://skalper-unlocker-v5.netlify.app/#contact
 
 ## Инструкция по установке
-1. Скачай файл `Skalper-Unlocker v5.0.ex4` из раздела **Releases** (см. ниже).
+1. Скачай файл `Skalper-Unlocker v5.0.ex4` из раздела **Releases**.
 2. Скопируй его в папку `MQL4/Experts` твоего терминала MetaTrader 4.
 3. Перезапусти терминал.
