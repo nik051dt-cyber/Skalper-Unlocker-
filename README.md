@@ -11,7 +11,7 @@
 [Смотреть видео 2 на YouTube](https://youtu.be/EJj8l2JQpWw)
 
 Сайт советника: 
-https://skalper-unlocker-v5.netlify.app/#contact
+https://skalper-unlocker-v5.netlify.app
 
 ## Инструкция по установке
 1. Скачай последний релиз файла `Skalper-Unlocker.ex4` из раздела **Releases**.
