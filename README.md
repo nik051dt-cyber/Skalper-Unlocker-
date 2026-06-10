@@ -8,6 +8,7 @@
 
 ## Видео-пример работы
 [Смотреть видео на YouTube](https://youtu.be/tlodAFfFLmA)
+[Смотреть видео 2 на YouTube] (https://youtu.be/EJj8l2JQpWw)
 
 Сайт советника: 
 https://skalper-unlocker-v5.netlify.app/#contact
